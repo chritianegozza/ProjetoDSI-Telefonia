@@ -5,6 +5,10 @@ O sistema deve seguir o diagrama de classes UML mostrado abaixo:
 
 ![image](https://github.com/chritianegozza/ProjetoDSI-Telefonia/assets/72118415/4650238d-28fd-426f-a6c0-5ff7b85ef419)
 
+![image](https://github.com/chritianegozza/ProjetoDSI-Telefonia/assets/72118415/108f5974-01d0-489a-bc29-b6e5f579725a)
+
+
+![image](https://github.com/chritianegozza/ProjetoDSI-Telefonia/assets/72118415/912cedb7-706d-433e-aa21-f2d2b1277201)
 
 **********************************************************************
 👩🏻‍💻 Projeto
