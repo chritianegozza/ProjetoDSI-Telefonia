@@ -4,27 +4,27 @@
  * Curso: SI 4° Semestre
  * */
 
-import java.util.GregorianCalendar;
+import java.util.Date;
 
 public class Recarga {
-    private GregorianCalendar data;
-    private double valor;
+    private Date data;
+    private float valor;
 
-    public Recarga(GregorianCalendar data, double valor) {
+    public Recarga(Date data, float valor) {
         this.data = data;
         this.valor = valor;
     }
 
-    public GregorianCalendar getData() {
+    public Date getData() {
         return data;
     }
 
-    public double getValor() {
+    public float getValor() {
         return valor;
     }
 
     @Override
     public String toString() {
-        return "Recarga [data=" + data + ", valor=" + valor + "]";
+        return "Recarga [data=" + data + ", valor=" + valor + " reais]";
     }
 }
